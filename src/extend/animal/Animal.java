@@ -11,4 +11,5 @@ public abstract class Animal {
 		System.out.println(name + "が食事をしました！");
 	}
 	public abstract void cry();
+	
 }

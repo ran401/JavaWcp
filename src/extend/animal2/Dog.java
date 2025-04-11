@@ -13,7 +13,7 @@ public class Dog extends Animal {
 	}
 	
 	public void eat() {
-		System.out.println(name + "が食事をしました！");
+		System.out.println(this.name + "が食事をしました！");
 	}
 
 	public void cry() {

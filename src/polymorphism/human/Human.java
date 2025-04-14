@@ -20,5 +20,6 @@ public class Human {
 	public String getProfile() {
 		return "名前は" + this.name + "、年齢は" + this.age + "です。";
 	}
+
 	
 }	
